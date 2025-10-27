@@ -1,6 +1,6 @@
 import React, { useMemo } from 'react'
 
-import { Checkbox, CheckboxGroup } from '@procsea/design-system'
+import { Checkbox, CheckboxGroup } from '@design-system'
 
 import { TemplateFieldProps } from 'src/types'
 

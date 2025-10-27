@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { Radio, RadioGroup } from '@procsea/design-system'
+import { Radio, RadioGroup } from '@design-system'
 
 import { TemplateFieldProps } from 'src/types'
 
